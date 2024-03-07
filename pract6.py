@@ -1,3 +1,5 @@
+!pip install numpy
+!pip install scikit-fuzzy
 
 #import the library pip install numpy
 #import the library pip install scikit-fuzzy
