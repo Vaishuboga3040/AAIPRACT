@@ -1,3 +1,5 @@
+!pip install python-aiml
+
 import aiml
 
 def main():
